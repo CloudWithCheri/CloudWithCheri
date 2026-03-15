@@ -1,103 +1,69 @@
-## Hi there 👋
+# Hi, I'm Cheri 
 
-<!--
-# ☁️ CloudWithCheri
-
-Hi, I’m Cheri Johnson. I am a Cloud Technologies and Cybersecurity student transitioning from 10+ years in law enforcement into Cloud Engineering and Solutions Architecture.
-
-I specialize in building secure, well-documented, and scalable infrastructure in AWS while strengthening my Linux and systems administration skills.
+Cloud Technologies & Cybersecurity student | Aspiring Cloud / Systems Administrator | CompTIA A+ | Linux+ | Security+ | AWS SAA (in progress) | Army Veteran
 
 ---
 
-## 🎯 Career Focus
-- Cloud Engineer
-- Solutions Architect
-- Infrastructure & Systems Design
+## About Me
+
+I am currently transitioning into a career in Cloud Computing, Systems Administration, and Cloud Operations.
+
+I am completing Associate degrees in:
+
+- Cloud Technologies
+- Cybersecurity / Information Assurance
+
+I enjoy working with:
+
+- Linux
+- AWS
+- Networking
+- Automation
+- Security
+- Infrastructure
+- Troubleshooting
+
+My goal is to become a Cloud Engineer, Cloud Administrator, or Solutions Architect.
 
 ---
 
-## 🏆 Certifications
+## Certifications
+
 - CompTIA A+
 - CompTIA Linux+
 - CompTIA Security+
-- (In Progress) AWS Solutions Architect – Associate
+- AWS Solutions Architect Associate (in progress)
 
 ---
 
-## 🛠 Technical Skills
+## Skills
 
-### ☁️ Cloud
-- AWS EC2
-- S3
-- IAM
-- VPC
-- Security Groups
-- Basic networking architecture
-
-### 🐧 Systems
-- Linux administration (users, permissions, services, package management)
-- Bash fundamentals
-- Process and service management
-- Log analysis
-
-### 🌐 Networking
-- DNS
-- DHCP
-- TCP/IP
-- Subnetting fundamentals
-- Network troubleshooting
-
-### 🔐 Security
-- Principle of least privilege
-- Access control
-- Basic hardening practices
-- Security monitoring concepts
+- AWS (EC2, S3, IAM, VPC)
+- Linux administration
+- Networking fundamentals
+- DNS / DHCP
+- Security basics
+- Bash / CLI
+- Python (beginner)
+- Ansible (learning)
+- CloudFormation (learning)
 
 ---
 
-## 📂 Featured Projects
+## Current Projects
 
-### 🔹 AWS Static Website Deployment
-Deployed a static website using S3 and configured secure access controls.
-- Architecture diagram included
-- Cost estimation
-- Lessons learned documentation
-
-### 🔹 Linux Administration Labs
-Hands-on command-line labs demonstrating:
-- User and group management
-- File permissions
-- Service configuration
-- Package management
-
-### 🔹 Active Directory Design Project
-Designed a structured OU and Group Policy layout for a simulated business environment.
-
-(More projects coming as I build and document real-world cloud scenarios.)
+- AWS Static Website Project
+- Linux Administration Notes
+- Cloud Networking Labs
+- IAM Security Project
+- Ansible Automation Project
+- Python for Cloud Support
+- CloudFormation Deployment Lab
+- Monitoring / Logging Lab
 
 ---
 
-## 📚 What I’m Currently Working On
-- Strengthening AWS architecture fundamentals
-- Infrastructure documentation and diagrams
-- Automation basics with Bash & Python
-- Building a production-style cloud portfolio
-
----
-
-## 💡 My Approach
-
-I believe infrastructure should be:
-- Secure
-- Documented
-- Scalable
-- Built with intention
-
-I focus on understanding *why* systems are designed a certain way, not just how to deploy them.
-
----
-
-## 📫 Connect With Me
+## Connect With Me
 LinkedIn: www.linkedin.com/in/cheri-j-234446273
 
 ---
