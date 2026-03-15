@@ -1,6 +1,6 @@
 # Hi, I'm Cheri 
 
-Cloud Technologies & Cybersecurity student | Aspiring Cloud / Systems Administrator | CompTIA A+ | Linux+ | Security+ | AWS SAA (in progress) | Army Veteran
+Cloud Technologies & Cybersecurity student | Cloud / Systems Administrator | CompTIA A+ | Linux+ | Security+ | AWS SAA (in progress) | Army Veteran
 
 ---
 
